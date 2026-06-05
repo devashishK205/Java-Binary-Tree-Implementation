@@ -1,3 +1,10 @@
+//Binary Tree Implementation in Java – Theory
+
+//Introduction --
+//A Binary Tree is a hierarchical data structure in which each node can have at most two children, known as the left child and right child. The topmost node of the tree is called the root node.
+//Binary trees are widely used in computer science for organizing and storing data efficiently. They form the foundation for advanced data structures such as Binary Search Trees (BST), Heaps, and Expression Trees.
+//In this program, a simple binary tree is created manually using nodes and references.
+
 public class BinaryTree {
 
     // Node class
@@ -36,3 +43,5 @@ public class BinaryTree {
    //  20    30
    // /  \
    // 40   50
+
+//This program demonstrates the basic implementation of a Binary Tree in Java using a Node class. Each node stores data and references to its left and right children. The program creates a tree structure manually and establishes parent-child relationships. It serves as the foundation for understanding more advanced tree-based data structures and algorithms.
